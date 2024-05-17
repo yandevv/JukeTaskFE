@@ -42,6 +42,7 @@
 Prerequisites: [Node.js](https://nodejs.org/en) (^18.3)
 
 [Add an Installation Guide]
+[npm instal to install dependencies]
 
 ## Project Setup
 
